@@ -3,3 +3,6 @@ Repositório contendo as resoluções dos desafio do bootcamp Database Experienc
 
 # Desafio Um:
 Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+
+# Desafio Dois:
+Construindo um Esquema Conceitual do Zero
